@@ -17,6 +17,12 @@ public class Main {
             numeroWhile++;
         }
 
+        int i = 3;
+        do {
+            System.out.println(i);
+            i++;
+        } while (i < 3);
+
 
     }
 }
