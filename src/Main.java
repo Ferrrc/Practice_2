@@ -11,5 +11,12 @@ public class Main {
         }
 
 
+        int numeroWhile = -1;
+        while (numeroWhile < 3) {
+            System.out.println(numeroWhile);
+            numeroWhile++;
+        }
+
+
     }
 }
